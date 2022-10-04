@@ -1,0 +1,25 @@
+{
+  "name": "met-office",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KJ234/met-office.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KJ234/met-office/issues"
+  },
+  "homepage": "https://github.com/KJ234/met-office#readme",
+  "dependencies": {
+    "json": "^11.0.0",
+    "node-fetch": "^3.2.10"
+  },
+  "devDependencies": {},
+  "description": ""
+}
